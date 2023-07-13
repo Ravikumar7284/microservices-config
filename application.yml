@@ -7,4 +7,4 @@ eureka:
     fetch-registry: true
     register-with-eureka: true
     service-url:
-      defaultZone: http://[myIP@]:8090/eureka
+      defaultZone: http://192.168.43.204:8090/eureka
